@@ -1,0 +1,17 @@
+write IRCBot in an interface
+load IRCBot directly
+	(or all at the same time)
+call javac remotely
+add login/pass
+add remote conn
+serverlistener:14 has a SocketException at 14, catch somewhere useful instead
+setup at sploode
+
+
+
+find interesting things to do with sploode
+
+
+pirate bioshock
+
+finish family guy

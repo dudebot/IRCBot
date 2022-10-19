@@ -1,0 +1,1 @@
+java IRCBot irc.tribalwar.com reflector #tribesnext
